@@ -1,36 +1,4 @@
-# RunwayAutomation
-Automate prompt submission on RunwayML for continuous AI-generated content creation.
-
-🎉 Félicitations ! Votre projet est bien en ligne sur GitHub ! 🚀
-L'affichage de Marjorie est probablement dû au fait que GitHub a enregistré ce nom comme l'auteur du commit dans votre configuration Git.
-
-🛠️ Pourquoi GitHub affiche-t-il "Marjorie" ?
-Cela signifie que Git est configuré avec un nom d’utilisateur différent sur votre machine. Pour vérifier et corriger cela, faites ceci :
-
-1️⃣ Vérifier le nom et l’email Git enregistrés
-Dans votre terminal (cmd ou PowerShell), tapez :
-
-bash
-Copier
-Modifier
-git config --global user.name
-git config --global user.email
-Cela affichera l'utilisateur actuellement configuré.
-
-2️⃣ Modifier le nom et l’email Git
-Si vous voulez changer le nom et l’email affichés, utilisez :
-
-bash
-Copier
-Modifier
-git config --global user.name "VotreNom"
-git config --global user.email "votre.email@exemple.com"
-Puis faites un nouveau commit et poussez-le pour que GitHub affiche votre nom correct.
-
-📌 Explication du projet (README détaillé)
-Ajoutez ce contenu dans README.md pour mieux expliquer votre projet.
-
-🚀 RunwayAutomation
+#🚀 RunwayAutomation
 Automate prompt submission on RunwayML for continuous AI-generated content creation.
 
 📌 Purpose:
